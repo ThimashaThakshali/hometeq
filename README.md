@@ -1,2 +1,2 @@
 # hometeq
-shopping web site
+simple shopping web site
